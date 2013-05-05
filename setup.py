@@ -9,6 +9,8 @@ tests_require = [
     "pytest",
     "webtest",
     "pyramid",
+    "pyramid_zodbconn",
+    "pyramid_tm",
     "repoze.catalog",
     "pytest-cov",
 ]

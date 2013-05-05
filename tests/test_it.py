@@ -164,4 +164,4 @@ class TestCatalog(object):
         assert results[0] == 1
         for f in results[1]:
             print f
-        assert False
+
